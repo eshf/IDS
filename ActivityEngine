@@ -8,14 +8,6 @@ import java.util.Collections;
 import java.util.List;
 import java.io.IOException;
 
-/**
- * Module: CSCI262 Assignment 3
- * Members: 
- * 		Shu Hui Fiona Eng (5279148)
- * 		William Tay Teck Shuo (6662171)
- * 		Lan Yung Lee (6744369)
- *
- */
  
 public class ActivityEngine {
     EventType[] eventStats;
