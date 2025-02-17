@@ -1,5 +1,4 @@
 # IDS
-CSCI262 Assign 3
 
 An event modeller & intrusion detection system in accordance with the system descriptions below. The implementation is in Java.
 
